@@ -29,3 +29,7 @@ num2 = 8
 num1 / num2
 end
 
+def square_root(num)
+num = 5
+num **
+end
