@@ -30,7 +30,6 @@ num1 / num2
 end
 
 def square_root(num)
-num1 == 5
-num2 == 4
-num1 - num2
+num == 5
+num
 end
