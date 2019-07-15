@@ -24,8 +24,8 @@ num1 * num2
 end
 
 def modulo(num1, num2)
-num1 == 5.0
-num2 == 4.0
+num1 == 34.0
+num2 == 5.0
 num1 / num2
 end
 
